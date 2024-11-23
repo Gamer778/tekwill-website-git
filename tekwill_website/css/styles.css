@@ -1,0 +1,15 @@
+body {
+    background-color: #14141b;
+    margin: 0;
+}
+
+.header {
+    background-color: #40186e;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list {
+    color: #286d8d;
+    list-style: none;
+}
