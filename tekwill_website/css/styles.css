@@ -1,15 +1,22 @@
 body {
     background-color: #14141b;
-    margin: 0;
+    margin: auto;
 }
 
 .header {
     background-color: #40186e;
     display: flex;
     justify-content: space-between;
+    list-style: none;
+
 }
 
-.list {
-    color: #286d8d;
-    list-style: none;
+.alist {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 0.2em 2em;
+    border-style: solid;
+    border-start-start-radius: 4cm;
+    border-bottom-right-radius: 4cm;
+    background-color: #a2c23f;
 }
